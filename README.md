@@ -1,5 +1,5 @@
 <h1 align="center">
-Saber Rules
+S Rules
 </h1>
 
 Iterative rules designed for consistent coverage. Nothing new but hand-selected optimized rules designed to ensure fast, efficient cracking.
